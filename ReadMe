@@ -1,0 +1,31 @@
+ COVID-19 TRACKER
+  Covid-19 Tracker Project => https://public.tableau.com/profile/sedat4526#!/vizhome/Covid-19TrackerProject/COVI9-19TRACKERDecember2019-November2020
+ 
+ COVID-19 is the infectious disease caused by the coronavirus, SARS-CoV-2, which is a respiratory pathogen. 
+ World Health Organization first learned of this new virus from cases in Wuhan, People’s Republic of China on 31 December 2019.
+ This project tries to explore given data set, design interactive dashboard, and then convey the results by using following dataset;
+ 
+ Covid-19 Dataset => https://tableau.data.world/?dataset_name=covid-19-data-resource-hub%2Fcovid-19-case-counts&query=SELECT%20*%20FROM%20covid_19_activity&queryType=SQL
+ 
+ 
+ 
+ KIVA LOANS
+  Kiva Loans Project => https://public.tableau.com/profile/sedat4526#!/vizhome/KiviLoans/Dashboard1
+ 
+ Kiva is an international nonprofit, founded in San Francisco. Kiva's mission is to expand financial access to help underserved communities thrive. 
+ Kiva is not a donation organization, but a loan organization. 
+ 
+ The below steps simply shows how Kiva works:
+ * A borrower applies for a loan.
+ * The loan goes through the underwriting and approval process.
+ * Loan is posted to Kiva for lenders to support.
+ * Fundraising period starts. Lenders crowdfund the loan in increments of $25 or more. Fundraising completed.
+ * Borrower repays the loan.Lenders use repayments to fund new loans, donate or withdraw the money.
+ 
+ This interactive dashboard help answer the following questions:
+ * What is the most represented gender among loan applicants by country?
+ * How does the loan amount for a select group of countries compare to the global total?
+ * How are loan amounts distributed by sector? Globally? For the select group of countries?
+ * What is the gender split in loan applicants for the select group of countries?
+ 
+ Dataset covers the loan statistics spanning from 2014 to 2017. The dataset consists of 670000 rows roughly.
